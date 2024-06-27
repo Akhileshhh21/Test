@@ -1,1 +1,419 @@
-Welcome Akhilesh
+COMMAND USE IN
+
+$ history
+    1  pwd
+    2  mkdir test
+    3  cd
+    4  cd test
+    5  ls
+    6  pwd
+    7  git version
+    8  pwd
+    9  mkdir test
+   10  cd test
+   11  pwd
+   12  ls -ls
+   13  git init
+   14  ls -la
+   15  touch abc.txt
+   16  ls -la
+   17  git branch
+   18  git branch -M main
+   19  git add .
+   20  git commit -m "my first commit"
+   21  git config --global user.gmail "akhileshshinde1999@gmail.com"
+   22  git config --global user.name "Akhileshhh21"
+   23  git commit -m "my first commit"
+   24  git config --global user.name "Akhilesh Shinde"
+   25  git commit -m "my first commit"
+   26  git config --global user.gmail "akhileshshinde1999@gmail.com"
+   27  git config --global user.name "Akhilesh Shinde"
+   28  git commit -m "first commit"
+   29  git config --global user.email "akhileshshinde1999@gmail.com"
+   30  git config --global user.name "Akhilesh Shinde"
+   31  git commit -m "first commit"
+   32  git remote add origin https://github.com/Akhileshhh21/Test.git
+   33  git push -u origin main
+   34  git clone https://github.com/Akhileshhh21/Awsdemo.git
+   35  git status
+   36  git log
+   37  cd
+   38  ls -la
+   39  ls -l
+   40  cd
+   41  ls -la
+   42  ls - l
+   43  ls -l
+   44  git clone https://github.com/Akhileshhh21/Test.git
+   45  cd
+   46  git clone https://github.com/Akhileshhh21/Test.git
+   47  cd
+   48  git add https://github.com/Akhileshhh21/retest.git
+   49  ls -l
+   50  cd restest;
+   51  cd restest
+   52  mkdir
+   53  mkdir retest
+   54  cd
+   55  cd retest
+   56  git init
+   57  mkdir retest
+   58  cd retest
+   59  touch sample.text
+   60  touch text.text
+   61  cd sample.text
+   62  git init
+   63  git branch -M main
+   64  git add .
+   65  git push
+   66  git push https://github.com/Akhileshhh21/retest.git
+   67  git commit
+   68  cd
+   69  ls -l
+   70  mkdir test1
+   71  cd test1
+   72  touch text.txt
+   73  touch sample.txt
+   74  git init
+   75  git branch -M main
+   76  git add .
+   77  git commit -m 'first self commit'
+   78  git log
+   79  git remote add https://github.com/Akhileshhh21/retest.git
+   80  git push
+   81  git push -u origin main
+   82  git version
+   83  mkdir test
+   84  cd test
+   85  git init
+   86  touch sample.txt
+   87  touch text.txt
+   88  git branch -M main
+   89  git add .
+   90  git commit -m "First commit self"
+   91  git remote add origin https://github.com/Akhileshhh21/t1.git
+   92  git push
+   93  git push -u origin main
+   94  git status
+   95  git add .
+   96  git status
+   97  git push
+   98  git commit
+   99  mkdir
+  100  mkdir test2
+  101  cd test2
+  102  git init
+  103  touch sample.txt
+  104  touch text.txt
+  105  git add .
+  106  git commit -m "second time push"
+  107  git add remote origin https://github.com/Akhileshhh21/t2.git
+  108  git remote add origin https://github.com/Akhileshhh21/t2.git
+  109  git push
+  110  git push -u origin main
+  111  git push -u origin main
+  112  git status
+  113  git remote add origin https://github.com/Akhileshhh21/t1.git
+  114  git push -u origin main
+  115  git status
+  116  mkdir test2
+  117  cd test2
+  118  git init
+  119  touch sample.txt
+  120  touch text.txt
+  121  git branch -m main
+  122  git add .
+  123  git commit -m "second try"
+  124  git remote add origin https://github.com/Akhileshhh21/t2.git
+  125  git push -u origin main
+  126  git clone https://github.com/Akhileshhh21/t1.git
+  127  cd t1
+  128  cd t1/
+  129  cd clone
+  130  cd clone/
+  131  cd t1/
+  132  ls -l
+  133  cd
+  134  git clone https://github.com/Akhileshhh21/t1.git
+  135  ls -l
+  136  git clone https://github.com/Akhileshhh21/t1.git
+  137  git status
+  138  cd t1/
+  139  ls -
+  140  ls -l
+  141  touch details.text
+  142  git status
+  143  git add .
+  144  git status
+  145  git status
+  146  git add .
+  147  git status
+  148  git commit -m "yess commited"
+  149  git push
+  150  git status
+  151  git add .
+  152  git commit -m "another change"
+  153  git push
+  154  git log
+  155  git log -- oneline
+  156  git log --oneline
+  157  git diff b9032d2 ff38f3d
+  158  git log graph
+  159  git log
+  160  q
+  161  ls -l
+  162  git pull
+  163  ls -l
+  164  git branch feature1
+  165  git checkout -b feature
+  166  git branch
+  167  git swith main
+  168  git switch main
+  169  git branch
+  170  git swith feature
+  171  git switch feature
+  172  git switch feature1
+  173  touch new.txt
+  174  git add .
+  175  git commit -m "new feature"
+  176  git push -u origin feature1
+  177  switch branch feature
+  178  git switch feature
+  179  touch file.txt
+  180  add .
+  181  git add .
+  182  git commit -m "new feature add"
+  183  git push -u origin feature
+  184  git branch
+  185  git pull
+  186  git branch
+  187  git branch --all
+  188  git checkout main
+  189  git checkout feature1
+  190  git branch
+  191  git checkout feature1
+  192  git checkout feature3
+  193  git branch
+  194  git branch -d feature1
+  195  git push -d feature1
+  196  git push -d origin/feature1
+  197  git push origin -d feature1
+  198  git branch
+  199  git branch -d feature
+  200  git push origin -d feature
+  201  git branch
+  202  git branch -d feature3
+  203  git switch main
+  204  git branch -d feature3
+  205  git push origin -d feature3
+  206  mkdir
+  207  mkdir test
+  208  cd test
+  209  git init
+  210  touch file.txt
+  211  touch sample.txt
+  212  git add .
+  213  git branch -m main
+  214  git commit -m "ready for commit"
+  215  git remote add origin https://github.com/Akhileshhh21/t1.git
+  216  git push
+  217  git push -u origin main
+  218  touch info.txt
+  219  git status
+  220  git add .
+  221  git commit "again commit"
+  222  git commit -u "again commit"
+  223  git commit -m "again commit"
+  224  git push
+  225  git status
+  226  git clone https://github.com/Akhileshhh21/t1.git
+  227  git status
+  228  git status t1
+  229  git add .
+  230  git commit
+  231  CD
+  232  cd
+  233  ls -l
+  234  git status'
+  235  git status
+  236  ;
+  237  /
+  238  z
+  239  #
+  240  exit
+  241  git pull
+  242  ;
+  243  git pull https://github.com/Akhileshhh21/t1.git
+  244  git status
+  245  git commit -m "commited"
+  246  git status
+  247  git pull https://github.com/Akhileshhh21/t1.git
+  248  mkdir test
+  249  cd
+  250  cd test
+  251  ls -l
+  252  git init
+  253  touch sample.txt
+  254  touch first.txt;
+  255  git add .
+  256  git branch -m main
+  257  git commit -m "commited"
+  258  git remote add origin https://github.com/Akhileshhh21/T1.git
+  259  mkdir dev
+  260  cd dev
+  261  git init
+  262  touch sample.txt
+  263  touch file.txt
+  264  git branch -m main
+  265  git add .
+  266  git commit -m "commited"
+  267  git remote add origin https://github.com/Akhileshhh21/l1.git
+  268  git push -u origin
+  269  git push -u origin main
+  270  ls -l
+  271  git pull https://github.com/Akhileshhh21/l1.git
+  272  git status
+  273  cd l1/
+  274  status
+  275  git status
+  276  git add .
+  277  git commit -m "commited"
+  278  git push
+  279  git branch production
+  280  show branch
+  281  git branch
+  282  git swith
+  283  git switch
+  284  git switch production
+  285  git checkout
+  286  git branch
+  287  git branch uat
+  288  git branch
+  289  git branch hotfix
+  290  touch sample.txt
+  291  git add .
+  292  git push -u origin main
+  293  git commit -u "new branch"
+  294  git commit -m "new branch"
+  295  git push
+  296  git push -u origin main
+  297  git branch
+  298  git switch main
+  299  git status
+  300  git push -d origin/production
+  301  git push origin -d production
+  302  mkdir
+  303  mkdir
+  304  mkdir dev
+  305  cd dev
+  306  ls -l
+  307  git init
+  308  touch sample.txt
+  309  touch file.txt
+  310  git branch -m main
+  311  git add .
+  312  git commit -m "commited"
+  313  git remote add origin https://github.com/Akhileshhh21/a1.git
+  314  git push -u origin main
+  315  ls -l
+  316  git pull https://github.com/Akhileshhh21/a1.git
+  317  git branch
+  318  git checkout production
+  319  git checkout -b production
+  320  git branch
+  321  git swich main
+  322  git switch main
+  323  git switch production
+  324  git checkout -b uat
+  325  show branch
+  326  git branch
+  327  git switch production
+  328  git checkout -b hotfix
+  329  git branch
+  330  git switch production
+  331  touch add.txt
+  332  git add .
+  333  git commit - m "new branch"
+  334  git commit -m "new branch"
+  335   git push
+  336  git push -u origin production
+  337  git branch
+  338  git pull
+  339  git branch
+  340  git switch hotfix
+  341  git checkout uat
+  342  git branch
+  343  git checkout production
+  344  git branch
+  345  git branch origin -d uat
+  346  git branch origin -d hotfix
+  347  git branch origin -d production
+  348  git push origin -d hotfix
+  349  git push origin -d production
+  350  mkidir dec
+  351  mkdir dev
+  352  cd dev
+  353  git init
+  354  git branch -m origin
+  355  mkdir dev
+  356  cd dev
+  357  git init
+  358  touch sample.txt
+  359  touch file.txt
+  360  git master -m main
+  361  git branch -m main
+  362  git add .
+  363  git commit -m "commited"
+  364  git remote add origin https://github.com/Akhileshhh21/test.git
+  365  git push -u origin main
+  366  git status
+  367  git add .
+  368  git commit -m "added"
+  369  git push
+  370  git status
+  371  git pull https://github.com/Akhileshhh21/test.git
+  372  git pull
+  373  git branch production
+  374  git branch
+  375  git switch production
+  376  git add .
+  377  git commit -m "branch created"
+  378  git push
+  379  git push -u origin main
+  380  git branch
+  381  git add .
+  382  git commit -m "added"
+  383  touch new.txt
+  384  git add .
+  385  git commit -m "added"
+  386  git push
+  387  git push -u origin production
+  388  git branch hot
+  389  git switch hot
+  390  touch amp.txt
+  391  git add .
+  392  git commit -m "added"
+  393  git push -u origin hot
+  394  git branch crm
+  395  git switch crm
+  396  touch bmw.txt
+  397  git add .
+  398  git commit -m "added"
+  399  git push -u origin crm
+  400  git push -u origin crm
+  401  git push -u origin crm
+  402  show branch
+  403  git branch
+  404  git pull
+  405  git branch
+  406  git branch
+  407  git switch hot
+  408  git switch cds
+  409  git branch
+  410  git switch main
+  411  git merge production
+  412  git push
+  413  git merge hot
+  414  git push
+  415  ls -l
+  416  history
