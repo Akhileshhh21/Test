@@ -1,4 +1,6 @@
 #INCLUDE<STDIO.H>
 #INCLUDE<CONIO.H>
 {
+string gender
+string ass
 }
